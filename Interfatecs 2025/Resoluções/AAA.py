@@ -3,6 +3,7 @@ while True:
     nums = []
 
     if entrada == '*':
+        print(0)
         break
 
     for i in entrada:
